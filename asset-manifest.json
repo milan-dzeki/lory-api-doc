@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lory-api-doc/static/css/main.1e05e2cb.chunk.css",
+    "main.js": "/lory-api-doc/static/js/main.989c3065.chunk.js",
+    "main.js.map": "/lory-api-doc/static/js/main.989c3065.chunk.js.map",
+    "runtime-main.js": "/lory-api-doc/static/js/runtime-main.06af1c75.js",
+    "runtime-main.js.map": "/lory-api-doc/static/js/runtime-main.06af1c75.js.map",
+    "static/js/2.60a44847.chunk.js": "/lory-api-doc/static/js/2.60a44847.chunk.js",
+    "static/js/2.60a44847.chunk.js.map": "/lory-api-doc/static/js/2.60a44847.chunk.js.map",
+    "static/js/3.86da9bbf.chunk.js": "/lory-api-doc/static/js/3.86da9bbf.chunk.js",
+    "static/js/3.86da9bbf.chunk.js.map": "/lory-api-doc/static/js/3.86da9bbf.chunk.js.map",
+    "index.html": "/lory-api-doc/index.html",
+    "static/css/main.1e05e2cb.chunk.css.map": "/lory-api-doc/static/css/main.1e05e2cb.chunk.css.map",
+    "static/js/2.60a44847.chunk.js.LICENSE.txt": "/lory-api-doc/static/js/2.60a44847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06af1c75.js",
+    "static/js/2.60a44847.chunk.js",
+    "static/css/main.1e05e2cb.chunk.css",
+    "static/js/main.989c3065.chunk.js"
+  ]
+}
