@@ -1,13 +1,69 @@
-body {
+*, *::before, *::after {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+ul {
+  list-style: none;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  padding: 1rem 0;
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  color: white;
+  font-weight: 500;
+}
+
+section {
+  margin: 2rem;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+}
+
+.endpoint {
+  font-size: 1.8rem;
+  padding: 0.5rem 2rem;
+  background-color: rgb(219, 246, 255);
+}
+
+.url {
+  font-size: 1.8rem;
+  padding: 0.5rem 2rem;
+  background-color: lightblue;
+}
+
+ul {
+  background-color: #eee;
+  padding: 1rem 3rem;
+  font-size: 1.75rem;
+}
+
+li:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+strong {
+  color: rgb(187, 3, 3);
+}
+
+span {
+  font-weight: 700;
 }
